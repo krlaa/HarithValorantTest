@@ -67,7 +67,7 @@ class _PlayerState extends State<Player> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "BACK STORY:",
+                "BIOGRAPHY:",
                 style: style(),
               ),
               SizedBox(

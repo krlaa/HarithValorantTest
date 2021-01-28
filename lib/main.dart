@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
-        home: WeaponSelect());
+        home: MyHomePage());
   }
 }
 
@@ -56,7 +56,7 @@ class MyHomePage extends StatelessWidget {
                   FlatButton(
                       color: Color(0xFF364966),
                       onPressed: () {
-                        print("WEAPONS");
+                        Get.to(WeaponSelect());
                       },
                       child: Container(
                           width: 80,
