@@ -3,6 +3,7 @@ import 'package:diagonal/diagonal.dart';
 import 'package:get/route_manager.dart';
 import 'package:newproject/player.dart';
 import 'package:newproject/playerSelect.dart';
+import 'package:newproject/profile.dart';
 import 'package:newproject/weaponselect.dart';
 
 void main() {
@@ -14,6 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      defaultTransition: Transition.zoom,
         debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         home: MyHomePage());
@@ -87,7 +89,7 @@ class MyHomePage extends StatelessWidget {
                     FlatButton(
                         color: Color(0xFF364966),
                         onPressed: () {
-                          print("PROFILE");
+                          Get.to(ProfilePage());
                         },
                         child: Container(
                             width: 80,

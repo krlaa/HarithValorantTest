@@ -106,6 +106,7 @@ class PlayerSelect extends StatelessWidget {
                               ))))
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -174,6 +175,7 @@ class PlayerSelect extends StatelessWidget {
                               )))),
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -242,6 +244,7 @@ class PlayerSelect extends StatelessWidget {
                               )))),
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -310,6 +313,7 @@ class PlayerSelect extends StatelessWidget {
                               )))),
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -378,6 +382,7 @@ class PlayerSelect extends StatelessWidget {
                               )))),
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
@@ -446,6 +451,7 @@ class PlayerSelect extends StatelessWidget {
                               )))),
                     ],
                   ),
+                  Divider(height: 10,color: Colors.transparent,),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,

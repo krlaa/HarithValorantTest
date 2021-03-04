@@ -23,6 +23,9 @@ environment:
 dependencies:
   get: ^3.24.0
   diagonal: ^1.0.1
+  youtube_player_flutter: ^7.0.0+7
+  youtube_player_iframe: ^1.2.0+2
+
   flutter:
     sdk: flutter
 

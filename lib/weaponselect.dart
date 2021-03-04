@@ -22,75 +22,75 @@ class WeaponSelect extends StatelessWidget {
               children: <Widget>[
                 Weapons(
                   weaponName: "Classic pistol",
-                  weaponImage: "weapons/c.png",
+                  weaponImage: "assets/weapons/c.png",
                 ),
                 Weapons(
                   weaponName: "shorty",
-                  weaponImage: "weapons/shorty.png",
+                  weaponImage: "assets/weapons/shorty.png",
                 ),
                 Weapons(
                   weaponName: "frenzy",
-                  weaponImage: "weapons/frenzy.png",
+                  weaponImage: "assets/weapons/frenzy.png",
                 ),
                 Weapons(
                   weaponName: "ghost",
-                  weaponImage: "weapons/ghost.png",
+                  weaponImage: "assets/weapons/ghost.png",
                 ),
                 Weapons(
                   weaponName: "sheriff",
-                  weaponImage: "weapons/sheriff.png",
+                  weaponImage: "assets/weapons/sheriff.png",
                 ),
                 Weapons(
                   weaponName: "stinger",
-                  weaponImage: "weapons/stinger.png",
+                  weaponImage: "assets/weapons/stinger.png",
                 ),
                 Weapons(
                   weaponName: "spectre",
-                  weaponImage: "weapons/spectre.png",
+                  weaponImage: "assets/weapons/spectre.png",
                 ),
                 Weapons(
                   weaponName: "bulldog",
-                  weaponImage: "weapons/bulldog.png",
+                  weaponImage: "assets/weapons/bulldog.png",
                 ),
                 Weapons(
                   weaponName: "guardian",
-                  weaponImage: "weapons/guardian.png",
+                  weaponImage: "assets/weapons/guardian.png",
                 ),
                 Weapons(
                   weaponName: "phantom",
-                  weaponImage: "weapons/phantom.png",
+                  weaponImage: "assets/weapons/phantom.png",
                 ),
                 Weapons(
                   weaponName: "vandal",
-                  weaponImage: "weapons/vandal.png",
+                  weaponImage: "assets/weapons/vandal.png",
                 ),
                 Weapons(
                   weaponName: "bucky",
-                  weaponImage: "weapons/bucky.png",
+                  weaponImage: "assets/weapons/bucky.png",
                 ),
                 Weapons(
                   weaponName: "judge",
-                  weaponImage: "weapons/judge.png",
+                  weaponImage: "assets/weapons/judge.png",
                 ),
                 Weapons(
                   weaponName: "ares",
-                  weaponImage: "weapons/ares.png",
+                  weaponImage: "assets/weapons/ares.png",
                 ),
                 Weapons(
                   weaponName: "odin",
-                  weaponImage: "weapons/odin.png",
+                  weaponImage: "assets/weapons/odin.png",
                 ),
                 Weapons(
                   weaponName: "marshal",
-                  weaponImage: "weapons/marshal.png",
+                  weaponImage: "assets/weapons/marshal.png",
                 ),
                 Weapons(
                   weaponName: "operator",
-                  weaponImage: "weapons/operator.png",
+                  weaponImage: "assets/weapons/operator.png",
                 ),
                 Weapons(
                   weaponName: "melee",
-                  weaponImage: "weapons/melee.png",
+                  weaponImage: "assets/weapons/melee.png",
                 ),
               ],
             ),
